@@ -76,4 +76,5 @@ Training takes about five minutes on a CPU.
 - Use a **CRNN** (CNN + recurrent layers) to read full words or sentences.
 
 ## Author
-Aisha, SIMAD University
+Aisha   Hormuud University
+
